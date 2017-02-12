@@ -3,8 +3,8 @@ var React = require('react')
 var Examples = () => {
   return (
     <div>
-      <h3>Examples component</h3>
-      <p>Welcome!</p>
+      <h1 className="text-center">Examples</h1>
+      <p>Here are a few example locations to try out:</p>
     </div>
   );
 };
