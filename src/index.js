@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
+require('foundation-sites/dist/foundation.min.css');
+
 var {Route, Router, IndexRoute, hashHistory} = require('react-router')
 // var Route = require('react-router').Route;
 
