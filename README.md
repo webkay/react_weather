@@ -1,6 +1,9 @@
-React Weather Application
+React Weather Application - following Andrew Mead tutorial https://www.udemy.com/the-complete-react-web-app-developer-course/
+
+## How to run the code locally
 
 ```
+yarn
 yarn run start
 ```
 
